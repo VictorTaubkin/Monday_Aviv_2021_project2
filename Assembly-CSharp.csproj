@@ -95,12 +95,13 @@
     <Compile Include="Assets\Prefabs\Table and chair\Standard Assets\Effects\ImageEffects\Scripts\CameraMotionBlur.cs" />
     <Compile Include="Assets\Prefabs\Table and chair\Standard Assets\Effects\ImageEffects\Scripts\DepthOfFieldDeprecated.cs" />
     <Compile Include="Assets\Prefabs\Table and chair\Standard Assets\Effects\ImageEffects\Scripts\Fisheye.cs" />
+    <Compile Include="Assets\Scripts\DoorMotion.cs" />
     <Compile Include="Assets\Prefabs\Table and chair\Standard Assets\Effects\ImageEffects\Scripts\PostEffectsBase.cs" />
     <Compile Include="Assets\Prefabs\Table and chair\Standard Assets\Effects\ImageEffects\Scripts\Quads.cs" />
     <Compile Include="Assets\Prefabs\Table and chair\Standard Assets\Effects\ImageEffects\Scripts\EdgeDetection.cs" />
     <Compile Include="Assets\Prefabs\Table and chair\Standard Assets\Effects\ImageEffects\Scripts\ColorCorrectionLookup.cs" />
     <Compile Include="Assets\Prefabs\Table and chair\Standard Assets\Effects\ImageEffects\Scripts\Tonemapping.cs" />
-    <Compile Include="Assets\Scripts\DoorMotion.cs" />
+    <Compile Include="Assets\Scripts\SlidingDoorMotion.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\Prefabs\Table and chair\Standard Assets\Effects\ImageEffects\Shaders\Tonemapper.shader" />
